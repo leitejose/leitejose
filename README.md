@@ -2,7 +2,7 @@
 
 - 📈 Sou graduado em Ciências Contabeis  (UFERSA)
 - 💻 Atualmente estou cursando Informatica de Gestão (ISCAC)
-- 📱 tenho interesse em colaborar em projetos front- end
+- 📱 tenho interesse em colaborar em projetos front- end e cyber security
 -  🎥 Gosto de produzir videos nas horas vagas
 <div align="center">
   <a href="https://github.com/leitejose">
