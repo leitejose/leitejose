@@ -1,7 +1,7 @@
 ### Olá, Sou o José Leite 👋
 
 - 📈 Sou graduado em Ciências Contabeis  (UFERSA)
-- 💻 Atualmente estou cursando Informatica de Gestão (ISCAC)
+- 💻 Atualmente estou cursando o mestrado em sistema de informação de gestão (ISCAC)
 - 📱 tenho interesse em colaborar em projetos front- end e cyber security
 -  🎥 Gosto de produzir videos nas horas vagas
 <div align="center">
